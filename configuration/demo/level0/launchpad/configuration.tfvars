@@ -26,7 +26,7 @@ regions = {
 }
 
 launchpad_key_names = {
-  azuread_app            = "caf_launchpad_level0"
+  azuread_app            = "yw-caf_launchpad_level0"
   keyvault_client_secret = "aadapp-caf-launchpad-level0"
   tfstates = [
     "level0",
