@@ -35,31 +35,31 @@ launchpad_key_names = {
 
 resource_groups = {
   level0 = {
-    name = "launchpad-level0"
+    name = "yw-launchpad-level0"
     tags = {
       level = "level0"
     }
   }
   level1 = {
-    name = "launchpad-level1"
+    name = "yw-launchpad-level1"
     tags = {
       level = "level1"
     }
   }
   level2 = {
-    name = "launchpad-level2"
+    name = "yw-launchpad-level2"
     tags = {
       level = "level2"
     }
   }
   level3 = {
-    name = "launchpad-level3"
+    name = "yw-launchpad-level3"
     tags = {
       level = "level3"
     }
   }
   level4 = {
-    name = "launchpad-level4"
+    name = "yw-launchpad-level4"
     tags = {
       level = "level4"
     }
