@@ -58,11 +58,11 @@ resource_groups = {
       level = "level3"
     }
   }
-  level4 = {
-    name = "yw-launchpad-level4"
-    tags = {
-      level = "level4"
-    }
-  }
+  # level4 = {
+  #   name = "yw-launchpad-level4"
+  #   tags = {
+  #     level = "level4"
+    # }
+  # }
 }
 
